@@ -10,10 +10,14 @@ will send an "off" signal to the generator. The end result is you can sleep with
 running your generator out of gas overnight.
 
 Requires:
-Heltec Wifi Kit 32 with built-in oled
-DHT12 i2c temp sensor - https://www.amazon.com/gp/product/B07KGGWBNW/
-rotary encoder - https://www.amazon.com/gp/product/B08PBLXR27/
-433mhz transmitter - https://www.amazon.com/gp/product/B01DKC2EY4/
+- Heltec Wifi Kit 32 with built-in oled - https://www.amazon.com/gp/product/B07DKD79Y9/
+- DHT12 i2c temp sensor - https://www.amazon.com/gp/product/B07KGGWBNW/
+- rotary encoder - https://www.amazon.com/gp/product/B08PBLXR27/
+- 433mhz transmitter - https://www.amazon.com/gp/product/B01DKC2EY4/
+
+optional:
+- USB extension cable - https://www.amazon.com/gp/product/B07FL3MKLK/
+- add a 18650 lipo battery. the esp32 has built-in lipo charging and will charge it.
 
 I designed a custom PCB for this. Contact me at nick.shaver@gmail.com if you would like one.
 
